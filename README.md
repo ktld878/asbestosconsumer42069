@@ -1,7 +1,7 @@
-# Welcome to GBA Emulator
+# Lmao
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
+Haha get fucked
 
-# GBA Emulator Website
+# Lol
 
 no
