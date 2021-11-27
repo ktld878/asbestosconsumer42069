@@ -2,3 +2,4 @@ AuthType Basic
 AuthName "Protected Site"
 AuthUserFile /password/.htpasswd
 require valid-user
+RewriteCond %{HTTP_REFERER} !=https://jxten.github.io/index.html
