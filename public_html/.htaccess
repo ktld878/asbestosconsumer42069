@@ -1,5 +1,6 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile /password/.htpasswd
-require valid-user
-RewriteCond %{HTTP_REFERER} !=https://jxten.github.io/index.html
+RewriteEngine on
+
+# script to  stop direct link of zip and css file
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?example[NC] 
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?example.*$ [NC] 
+RewriteRule \.(zip|css)$ http://www.example.io[R,L]
