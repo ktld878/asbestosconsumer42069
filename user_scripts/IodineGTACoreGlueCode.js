@@ -69,6 +69,7 @@ var games = {
     "monopoly":"Monopoly",
     "monster_force":"Monster Force",
     "mortal_kombat":"Mortal Kombat Advance",
+    "mother3":"Mother 3",
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
