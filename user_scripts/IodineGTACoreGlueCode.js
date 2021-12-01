@@ -1,6 +1,6 @@
 "use strict";
 /*
- * This file is part of IodineGBA
+ * This file is part of IodineGTA
  *
  * Copyright (C) 2012-2013 Grant Galitz
  *
