@@ -74,7 +74,7 @@ var games = {
     "pacman_world2":"Pacman World 2",
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
     "pokemonemerald":"Pokemon Emerald",
-    "eprp":"Pokemon Emerald Party Randomizer Plus"
+    "eprp":"Pokemon Emerald Party Randomizer Plus",
     "pokemongreen":"Pokemon Leaf Green",
     "mysteryred":"Pokemon Mystery Dungeon Red",
     "pokemonruby":"Pokemon Ruby",
