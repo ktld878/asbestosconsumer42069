@@ -73,6 +73,7 @@ var games = {
     "mother3":"Mother 3",
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
+    "pokemongb":"The Pokemon Gameboy Collection",
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
     "pokemonemerald":"Pokemon Emerald",
     "eprp":"Pokemon Emerald Party Randomizer Plus",
