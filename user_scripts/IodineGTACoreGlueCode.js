@@ -33,7 +33,7 @@ var games = {
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
     "drilldozer":"Drill Dozer",
     "dukenukem":"Duke Nukem Advance",
-    "dungeonsanddragons":"Dungeons and Dragons - Eye of the Beholder",
+    "dnd":"Dungeons and Dragons - Eye of The Beholder",
     "earthwormjim":"Earthworm Jim",
     "earthwormjim2":"Earthworm Jim 2",
     "ff1and2":"Final Fantasy 1 & 2 Advance",
