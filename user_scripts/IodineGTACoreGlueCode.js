@@ -47,7 +47,6 @@ var games = {
     "fzero_max":"F-Zero - Maximum Velocity",
     "gamewatch4":"Game & Watch Gallery 4",
     "goldensun":"Golden Sun",
-    "grandtheftauto":"Grand Theft Auto Advance",
     "gunstar_super_heroes":"Gunstar Super Heroes",
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
     "kirbymirror":"Kirby & The Amazing Mirror",
