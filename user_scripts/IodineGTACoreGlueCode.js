@@ -79,7 +79,6 @@ var games = {
     "monster_force":"Monster Force",
     "mortal_kombat":"Mortal Kombat Advance",
     "mother3":"Mother 3",
-    "pacmancollection":"Pacman Collection",
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
     "pokemoncollection":"The Pokemon Gameboy Collection",
