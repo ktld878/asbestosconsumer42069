@@ -78,6 +78,7 @@ var games = {
     "monopoly":"Monopoly",
     "monster_force":"Monster Force",
     "mortal_kombat":"Mortal Kombat Advance",
+    "mkda":"Mortal Kombat: Deadly Alliance",
     "mother3":"Mother 3",
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
