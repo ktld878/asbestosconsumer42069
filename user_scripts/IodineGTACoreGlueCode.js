@@ -83,6 +83,7 @@ var games = {
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
     "pokemoncollection":"The Pokemon Gameboy Collection",
+    "darkrising":"Pokemon: Dark Rising 1 (Fire Red Hack)",
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
     "pokemonemerald":"Pokemon Emerald",
     "eprp":"Pokemon Emerald Party Randomizer Plus",
