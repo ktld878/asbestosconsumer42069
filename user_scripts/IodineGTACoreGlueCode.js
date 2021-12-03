@@ -96,6 +96,7 @@ var games = {
     "pokemonred":"Pokemon Fire Red",
     "pokemonpinball":"Pokemon Pinball - Ruby & Sapphire",
     "pokemonrocketstrike":"Pokemon Rocket Strike (Fire Red Mod)",
+    "ultraviolet":"Pokemon Ultra Violet (Fire Red Mod)",
     "pokemonwaterblue":"Pokemon Water Blue (Fire Red Mod)",
     "gba_video_pokemon_1":"Pokemon Video Pak 1",
     "gba_video_pokemon_2":"Pokemon Video Pak 2",
