@@ -87,7 +87,6 @@ var games = {
     "darkrising2":"Pokemon: Dark Rising 2 (Fire Red Hack)",
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
     "pokemonemerald":"Pokemon Emerald",
-    "snakewood":"Pokemon Snakewood (Ruby Hack)",
     "eprp":"Pokemon Emerald Party Randomizer Plus",
     "pokemongreen":"Pokemon Leaf Green",
     "mysteryred":"Pokemon Mystery Dungeon Red",
