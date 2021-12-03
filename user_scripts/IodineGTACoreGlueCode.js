@@ -88,6 +88,7 @@ var games = {
     "pokemonplatinum":"Pokemon Light Platinum (Ruby Mod)",
     "pokemonred":"Pokemon Fire Red",
     "pokemonpinball":"Pokemon Pinball - Ruby & Sapphire",
+    "pokemonrocketstrike":"Pokemon Rocket Strike (Fire Red Mod)",
     "gba_video_pokemon_1":"Pokemon Video Pak 1",
     "gba_video_pokemon_2":"Pokemon Video Pak 2",
     "gba_video_pokemon_3":"Pokemon Video Pak 3",
