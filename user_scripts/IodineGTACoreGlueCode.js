@@ -52,6 +52,7 @@ var games = {
     "grandtheft":"Grand Theft Auto Advance",
     "gunstar_super_heroes":"Gunstar Super Heroes",
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
+    "iridion":"Iridion 3D",
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "starwars":"Lego Star Wars",
