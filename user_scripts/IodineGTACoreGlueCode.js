@@ -123,6 +123,9 @@ var games = {
     "tales_of_phantasia":"Tales of Phantasia",
     "tak2_staff_of_dreams":"Tak 2: The Staff of Dreams",
     "tetris_worlds":"Tetris Worlds",
+    "thps2":"Tony Hawk's Pro Skater 2"
+    "thps3":"Tony Hawk's Pro Skater 3"
+    "thps4":"Tony Hawk's Pro Skater 4"
     "tmnt":"Teenage Mutant Ninja Turtles",
     "sims_bustin_out":"The Sims: Bustin' Out",
     "sims2":"The Sims 2",
