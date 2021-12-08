@@ -123,9 +123,9 @@ var games = {
     "tales_of_phantasia":"Tales of Phantasia",
     "tak2_staff_of_dreams":"Tak 2: The Staff of Dreams",
     "tetris_worlds":"Tetris Worlds",
-    "thps2":"Tony Hawk's Pro Skater 2"
-    "thps3":"Tony Hawk's Pro Skater 3"
-    "thps4":"Tony Hawk's Pro Skater 4"
+    "thps2":"Tony Hawk's Pro Skater 2",
+    "thps3":"Tony Hawk's Pro Skater 3",
+    "thps4":"Tony Hawk's Pro Skater 4",
     "tmnt":"Teenage Mutant Ninja Turtles",
     "sims_bustin_out":"The Sims: Bustin' Out",
     "sims2":"The Sims 2",
@@ -136,7 +136,7 @@ var games = {
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
-    "zelda_minish":"The Legend of Zelda: The Minish Cap"
+    "zelda_minish":"The Legend of Zelda: The Minish Cap",
 };
 var Iodine = null;
 var Blitter = null;
