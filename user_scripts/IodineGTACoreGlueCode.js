@@ -126,6 +126,7 @@ var games = {
     "thps2":"Tony Hawk's Pro Skater 2",
     "thps3":"Tony Hawk's Pro Skater 3",
     "thps4":"Tony Hawk's Pro Skater 4",
+    "thas":"Tony Hawk's American Sk8land",
     "tmnt":"Teenage Mutant Ninja Turtles",
     "sims_bustin_out":"The Sims: Bustin' Out",
     "sims2":"The Sims 2",
