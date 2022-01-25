@@ -1,7 +1,8 @@
-# Lmao
+# insulator eater 69 420
 
-Haha get fucked
+insulator eater 69 420
 
-# Lol
+# insulator
 
-no
+insulation rats github
+
