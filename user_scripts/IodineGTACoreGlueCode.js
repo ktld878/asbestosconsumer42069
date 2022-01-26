@@ -41,6 +41,7 @@ var games = {
     "pkmnsnakewood":"Pokemon Snakewood (Ruby Hack)",
     "eprp":"Pokemon Emerald Party Randomizer Plus",
     "pokemongreen":"Pokemon Leaf Green",
+    "pokeprism":"Pokemon Prism (Mod)",
     "mysteryred":"Pokemon Mystery Dungeon Red",
     "pokemonruby":"Pokemon Ruby",
     "pokemonsapphire":"Pokemon Sapphire",
