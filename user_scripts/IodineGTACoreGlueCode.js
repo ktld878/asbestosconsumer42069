@@ -30,6 +30,7 @@ var games = {
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "starwars":"Lego Star Wars",
+    "mariokart":"Mario Kart: Super Circuit",
     "mortal_kombat":"Mortal Kombat Advance",
     "mkda":"Mortal Kombat: Deadly Alliance",
     "mother3":"Mother 3",
