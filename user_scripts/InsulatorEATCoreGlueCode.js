@@ -62,7 +62,7 @@ var games = {
     "rainbowsix":"Rainbow Six: Rogue Spear",
     "super_street_fighter_2_turbo_revival":"Super Street Fighter II: Turbo Revival",
     "super_street_fighter_3_alpha":"Super Street Fighter III: Alpha",
-    "SMA2":"Super Mario World 2",
+    "SMW2":"Super Mario World 2",
 };
 var Iodine = null;
 var Blitter = null;
