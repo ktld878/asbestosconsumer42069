@@ -64,6 +64,8 @@ var games = {
     "super_street_fighter_3_alpha":"Super Street Fighter III: Alpha",
     "SMW2":"Super Mario World 2",
     "Zero_Mission":"Metroid Zero Mission",
+    "supermarioadvance4":"Super Mario Advance 4",
+    "marioparty":"Mario Party Advance",
 };
 var Iodine = null;
 var Blitter = null;
